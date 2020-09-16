@@ -8,10 +8,11 @@
     </head>
     <body>
       <h1>Space and Earth</h1>
-      <h2>The Kardeshev Scale</h2>
-      <p>The Kardeshev scale might not seem like something related to space, but it is. Trust me.</p>
+      <h2>The Kardashev Scale</h2>
+      <p>The Kardashev scale might not seem like something related to space, but it is. Trust me.</p>
+	    <p>By Octavius Szeto</p>
       <p>(So I am just going to copy and paste...)</p>
-      <p>The Kardeshev Scale measures a civilization by their energy use. An anthill is a type 0 civilization. They use the power of their planet but does not use its true power. A type 1 civilization is able to harness the true power of their planet. They can control everything that happens on their planet.  A type 2 civilization is able to harness the power of their star. One way they might achieve this is by constructing a Dyson Sphere.  They can control everything that is in the solar system. A type 3 civilization is able to harness the power of a galaxy and can control everything inside the galaxy. They can merge stars, absorb supernovae, use the planets as building blocks, and even create stars. A type 4 civilization can harness the power of the universe. They have access to several, if not all galaxies. They can also create gigantic projects, bend space-time, and even reach immortality on a grand scale. A type 5 civilization can harness the power of several universes. Welcome to meta-physics. They can manipulate time. A type 6 civilization exists OUT of time and space. They have the ability to create universes and multiverses and destroy them.
+      <p>The Kardashev Scale measures a civilization by their energy use. An anthill is a type 0 civilization. They use the power of their planet but does not use its true power. A type 1 civilization is able to harness the true power of their planet. They can control everything that happens on their planet.  A type 2 civilization is able to harness the power of their star. One way they might achieve this is by constructing a Dyson Sphere.  They can control everything that is in the solar system. A type 3 civilization is able to harness the power of a galaxy and can control everything inside the galaxy. They can merge stars, absorb supernovae, use the planets as building blocks, and even create stars. A type 4 civilization can harness the power of the universe. They have access to several, if not all galaxies. They can also create gigantic projects, bend space-time, and even reach immortality on a grand scale. A type 5 civilization can harness the power of several universes. Welcome to meta-physics. They can manipulate time. A type 6 civilization exists OUT of time and space. They have the ability to create universes and multiverses and destroy them.
 
 	
 	If there are so many alien species waiting to be discovered, why haven't we found any aliens yet. Wouldn’t finding a new species be great? The answer is no. The reason for that is because of something called the Great Filter. Filters are obstacles life has to overcome. Most of the filters are just small roadblocks to stop us from becoming a type 3 civilization. 
@@ -23,12 +24,13 @@ If so, then we have overcome it.
 <p>Click on the below four links to learn more</p>
 <ul>
 	<li><a href="https://www.youtube.com/watch?v=UjtOGPJ0URM">The Great Filter</a></li>
-	<li><a href="https://www.youtube.com/watch?v=rhFK5_Nx9xY">The Kardeshev Scale</a></li>
+	<li><a href="https://www.youtube.com/watch?v=rhFK5_Nx9xY">The Kardashev Scale</a></li>
         <li><a href="https://www.youtube.com/watch?v=sNhhvQGsMEc">The Fermi Paradox</a></li>
-	<li><a href="https://www.youtube.com/watch?v=9k-Kuc9esDI">The Kardeshev Scale</a></li>
+	<li><a href="https://www.youtube.com/watch?v=9k-Kuc9esDI">The Kardashev Scale</a></li>
 </ul>
 <h2>Bright areas on Dwarf Planet Ceres created by salty water below</h2>
 <p>This article is epic...</p>
+<p>By NASA</p>
 <p>(But I will just copy and paste a excerpt from NASA...)</p>
 <p>(Sorry NASA...)</p>
 <p>NASA's Dawn spacecraft gave scientists extraordinary close-up views of the dwarf planet Ceres, which lies in the main asteroid belt between Mars and Jupiter. By the time the mission ended in October 2018, the orbiter had dipped to less than 22 miles (35 kilometers) above the surface, revealing crisp details of the mysterious bright regions Ceres had become known for.
